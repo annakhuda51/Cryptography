@@ -1,0 +1,13 @@
+D:\Криптография\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Криптография\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Криптография\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Криптография\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\Криптография\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Криптография\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\KPI\Cryptography\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\KPI\Cryptography\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\KPI\Cryptography\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\KPI\Cryptography\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\KPI\Cryptography\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\KPI\Cryptography\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\KPI\Cryptography\Lab1\Lab1\obj\Debug\Lab1.pdb
